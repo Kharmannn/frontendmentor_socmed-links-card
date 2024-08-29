@@ -1,0 +1,46 @@
+:root {
+    --slate-green: hsl(75, 94%, 57%);
+    --slate-white: hsl(0, 0%, 100%);
+    --slate-grey-700: hsl(0, 0%, 20%);
+    --slate-grey-800: hsl(0, 0%, 12%);
+    --slate-grey-900: hsl(0, 0%, 8%);
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+html, body {
+    height: 100%;
+    background-color: var(--slate-grey-900);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter';
+}
+
+main {
+    width: 100%;
+    height: calc(100vh - 20px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 300px;
+    height: 500px;
+    background-color: var(--slate-grey-800);
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+button {
+    display: block;
+}
+
+footer {
+    text-align: center;
+    color: var(--slate-white);
+}
