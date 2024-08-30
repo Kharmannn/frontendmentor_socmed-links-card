@@ -34,13 +34,76 @@ main {
     align-items: center;
     justify-content: center;
     border-radius: 20px;
+    padding: 16px;
+}
+
+.card-content-profile {
+    height: 40%;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.card-img-content {
+    clip-path: circle(50%);
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.card-content-name {
+    display: block;
+    font-size: 25px;
+    color: var(--slate-white);
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+.card-content-loc {
+    margin-top: 5px;
+    color: var(--slate-green);
+    font-weight: 600;
+    font-size: 16px;
+}
+
+address {
+    font-style: normal;
+}
+
+.card-content-summary {
+    margin-top: 15px;
+    color: var(--slate-white);
+    font-size: 12px;
+}
+
+.card-content-socmed {
+    margin-top: 20px;
+    text-align: center;
 }
 
 button {
-    display: block;
+    background-color: var(--slate-grey-700);
+    height: 35px;
+    width: 80%;
+    margin-top: 10px;
+    border: 5px ;
+    border-radius: 10px;
+    color: var(--slate-white);
+    font-weight: 600;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: var(--slate-white);
+    color: var(--slate-grey-900);
+    transition: 0.3s;
 }
 
 footer {
     text-align: center;
     color: var(--slate-white);
+}
+
+a {
+    color: var(--slate-green);
 }
