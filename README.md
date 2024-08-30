@@ -15,7 +15,7 @@ Users should be able to:
 ![](screenshot.jpg)
 
 - Solution URL: [Github](https://github.com/Kharmannn/frontendmentor_socmed-links-card)
-- Live Site URL: [Website](frontendmentorsocial-media-links-r3drq5w4g-kharmannns-projects.vercel.app)
+- Live Site URL: frontendmentorsocial-media-links-r3drq5w4g-kharmannns-projects.vercel.app
 
 ### What I learned
 
