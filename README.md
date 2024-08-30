@@ -19,10 +19,7 @@ Users should be able to:
 
 ### What I learned
 
-- Wrapper is Key: The wrapper (parent container) is primarily responsible for the layout and positioning of its children using Flexbox properties.
-- Children Styles: Apply additional styles to individual children when we need specific control over their appearance or spacing within the wrapper, but the overall positioning is typically managed by the wrapper.
-- Consistency: This approach remains consistent whether we have 1 child or multiple children in the container.
-- So, even with 3 children, we still apply Flexbox properties to the wrapper to control their overall alignment and positioning relative to each other. Then, we can apply additional styles directly to individual children if needed.
+- The button is much easier to be edited if we are using div to wrap the button of the html tag
 
 ## Author
 
