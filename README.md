@@ -8,7 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
+- In this small project, I build up a person's social link-sharing profile.
 
 ### Screenshot
 
