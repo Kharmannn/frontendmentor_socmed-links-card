@@ -14,8 +14,8 @@ Users should be able to:
 
 ![](screenshot.jpg)
 
-- Solution URL: [Github](https://github.com/Kharmannn/frontendmentor_blog-preview-card/)
-- Live Site URL: [Website](https://akram-frontendmentor-blog-preview-card.vercel.app)
+- Solution URL: [Github](https://github.com/Kharmannn/frontendmentor_socmed-links-card)
+- Live Site URL: [Website](frontendmentorsocial-media-links-r3drq5w4g-kharmannns-projects.vercel.app)
 
 ### What I learned
 
